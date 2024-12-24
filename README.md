@@ -17,15 +17,6 @@ UI/UX Tools: XML
 🔑 Key Concepts Covered
 How to create and style a CardView.
 Adding margins, padding, and elevation to enhance UI.
-Integrating CardView within RecyclerView (optional).
-📖 How to Use
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/CardViewExample.git  
-Open the project in Android Studio.
-Run the project on an emulator or physical device.
-✨ Screenshots
 
 Replace this with an actual screenshot of your layout.
 
